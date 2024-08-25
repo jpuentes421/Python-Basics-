@@ -2,7 +2,7 @@
 
 ## Objective
 
- Getting started with Python. Learning how to download python and VScode, also veriying the version number and creating a file. Will also execute a command using Python.
+ Getting started with Python. Learning how to download python and VScode, also verifying the version number and creating a file. Will also execute a command using Python.
 
 
 ### Skills Learned
@@ -31,7 +31,7 @@ py -3 --version
 ```
 8. The output should be the version of Python you installed.
 ![image](https://github.com/user-attachments/assets/40612762-e2b2-46e1-87e5-919a95518820)
-9. We can also run python commands right at the prompt >>> using by typing in **py**. This is the interactive python interpreter.
+9. We can also run python commands right at the prompt >>> using by typing in **py**. This is the Python **REPL** (read, evaluate, print, loop)
 10. Type in
 ```bash
 name = "Jessica"
@@ -47,7 +47,7 @@ name
 
     
 15. This is not how you usually provide the commands to the interpreter. Usually do this with files by creating a file with commands that we tell Python to execute.
-16. Type to quit the interactive python interpreter.
+16. Type to quit the Python REPL.
 ```bash
 quit() 
 ```
